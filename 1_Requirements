@@ -24,7 +24,7 @@ BILLING DATE : getdate() Function
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-LOW LWVEL REQUIREMENTS :
+LOW LEVEL REQUIREMENTS :
 
 HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
 FLOAT VARIABLE : AMOUNT ,TOTAL
