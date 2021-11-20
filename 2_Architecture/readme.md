@@ -19,3 +19,9 @@ HIGH LEVEL ARCHITECTURE :
 
 
 LOW LEVEL ARCHITECTURE :
+
+* BEOFRE AND AFTER SMART BILLING :
+
+![image](https://user-images.githubusercontent.com/94309132/142719553-b613fdbd-2bee-434a-aa62-5684cce8d8e3.png)
+
+
