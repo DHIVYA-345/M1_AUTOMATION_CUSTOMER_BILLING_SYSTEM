@@ -22,6 +22,16 @@ LOW LEVEL ARCHITECTURE :
 
 * BEOFRE AND AFTER SMART BILLING :
 
+
+
 ![image](https://user-images.githubusercontent.com/94309132/142719553-b613fdbd-2bee-434a-aa62-5684cce8d8e3.png)
 
 
+
+
+* HEADER FILES ,STRUCTURES ,VARIABLES, DATA TYPES :
+
+
+
+
+![image](https://user-images.githubusercontent.com/94309132/142720148-29d26b10-9674-4a22-983a-5294e4c3d67c.png)
