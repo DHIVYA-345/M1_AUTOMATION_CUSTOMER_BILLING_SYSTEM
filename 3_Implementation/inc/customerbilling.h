@@ -10,5 +10,6 @@
 #include <conio.h>
 #include <dos.h>
 
+void dummy(float a)
  
 #endif  /* #define __CUSTOMER_BILLING_H__ */
