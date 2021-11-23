@@ -1,9 +1,19 @@
-#include<projectfloat.h>
+void dummy (float a)
+{
+float *p=&a;
+}
+struct bill
+{
+char item[40];
+float qty, price;
+}b[100];
+
 int main()
 {
-    dummy(float a);
-    return(0);
-}
+clrscr();
+int i=0, c=1;
+char ch;
+float amt, total=0;
 
 do
 {
@@ -35,3 +45,11 @@ printf("%-9s %16.2f\t%10.2f\t%11.2f\n",b[i].item, b[i].qty,b[i].price, amt);
 }
 puts("------------------------------------------------------------");
 
+struct date d;
+getdate(&d);
+printf("Total Amount :\t\t\t\t\%.3f\n",total);
+printf("Billing Date :%d/%d/%d\n",d.da_day,d.da_mon,d.da_year);
+puts("Happy Shopping\n");
+puts("\t\t\tVisit ForGeeky.com");
+getch();
+}
