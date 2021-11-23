@@ -50,6 +50,5 @@ getdate(&d);
 printf("Total Amount :\t\t\t\t\%.3f\n",total);
 printf("Billing Date :%d/%d/%d\n",d.da_day,d.da_mon,d.da_year);
 puts("Happy Shopping\n");
-puts("\t\t\tVisit ForGeeky.com");
 getch();
 }
