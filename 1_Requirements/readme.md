@@ -12,6 +12,8 @@ FEATURES :
 * total bill amount.
 * We can also add customer details for future usage.
 --------------------------------------------------------------------------------------------------------------------------------------
+ HIGH LEVEL REQUIREMENTS :
+ 
 * CHARCTER ITEMS TO BE ADDED IN SUPER MARKET: OIL, ATTA, OATS, BISCUITS, SPROUTS, DRY FRITS, SUGAR and etc.
 * FLOAT QUANTITY AND PRICE : MULTIPLICATION OPERATION
 * TOTAL AMOUNT: ADDITION OPERATION 
@@ -20,7 +22,6 @@ FEATURES :
 --------------------------------------------------------------------------------------------------------------------------------------
 LOW LEVEL REQUIREMENTS :
 
-* HEADER FILES : #include<stdio.h> for printf and scanf,#include<conio.h> for clrscr() and getch(),#include<dos.h> for getdate()
 * FLOAT VARIABLE : AMOUNT ,TOTAL
 * CHAR : ITEMS 
 ----------------------------------------------------------------------------------------------------------------------------
