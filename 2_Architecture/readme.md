@@ -35,4 +35,10 @@ LOW LEVEL ARCHITECTURE :
 
 
 
+![image](https://user-images.githubusercontent.com/94309132/143260275-3484459f-c5df-4abc-ba4f-96fe71f1d34d.png)
+
+
+
+
+
 
