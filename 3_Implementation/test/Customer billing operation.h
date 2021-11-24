@@ -36,33 +36,29 @@ int main()
 
 /* Write all the test functions */ 
 void test_create_customer(void) {
-  TEST_ASSERT_EQUAL(30, add(10, 20));
-  TEST_ASSERT_EQUAL(-10, add(10, -20));
-  TEST_ASSERT_EQUAL(-30, add(-10, -20));
-  TEST_ASSERT_EQUAL(10, add(-10, 20));
-}
+
 void test_display(void) {
  
   /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(1500, add(750, 7500));
+  
 }
 void test_edit_customer(void) {
-  TEST_ASSERT_EQUAL(-3, subtract(0, 3));
+  
   
   /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(1, subtract(1000, 900));
+  
 }
 
 void test_create_item(void) {
-  TEST_ASSERT_EQUAL(0, multiply(1, 0));
+  
   
   /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(2, multiply(2, 5));
+  
 }
 
 void test_update_item(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+  
   
   /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(3, divide(2, 2));
+  
 }
