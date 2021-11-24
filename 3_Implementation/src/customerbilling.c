@@ -57,7 +57,7 @@ int main()
 	scanf("%d",&s);
     switch(s)
 	{           //                                     LOGIN WITH PASSWORD
-    //                                                  PASSWORD: kedars
+    //                                                  PASSWORD: DHIVYA
 	        case 1: printf("\tEnter Password:\t");
             for(i=0;i<6;i++)
             {
@@ -103,7 +103,7 @@ int main()
 		    printf("\tPlease Enter an Option: ");
 		    scanf("%d",&y);
 		    switch(y)
-		        {  //                                       ADMIN MENU 
+		        {  //                                        ADMIN MENU 
                   case 1:
                     system("cls");
                     printf("\t----------------------------\n");
@@ -130,7 +130,7 @@ int main()
                         default : printf("\tError\n");
 				            goto q;
         		} 
-                //                                BILLING SECTION
+                //                                 BILLING
             case 2: system("cls");
                     bill(k);
                     printf("\n\t Enter Any Key To Proceed");
@@ -185,7 +185,7 @@ void create_customer()
 	
 }
 int exist(char new[11])
-{//                                         CHECKS FOR CUSTOMER EXISTANCE
+{//                                           CHECK FOR CUSTOMER EXISTANCE
     FILE *fptr;
     int line, col;
     fptr = fopen("CUSTOMER_DETAILS.txt", "r");
