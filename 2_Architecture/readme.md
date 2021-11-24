@@ -15,7 +15,8 @@ HIGH LEVEL ARCHITECTURE :
 
 
 
-![image](https://user-images.githubusercontent.com/94309132/142718924-22d345ca-e42e-4f43-ac4c-d550a03f2688.png)
+![image](https://user-images.githubusercontent.com/94309132/143253101-4860ca88-0483-42ff-8501-70dc47f169fe.png)
+
 
 
 LOW LEVEL ARCHITECTURE :
@@ -34,4 +35,4 @@ LOW LEVEL ARCHITECTURE :
 
 
 
-![image](https://user-images.githubusercontent.com/94309132/142720148-29d26b10-9674-4a22-983a-5294e4c3d67c.png)
+
