@@ -20,7 +20,7 @@ codacy badges
 
 
 
-[![Unit Testing - Unity](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/unity.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/unity.yml)
+[![Build Windows](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_windows.yml/badge.svg)](https://github.com/samstyle321/M1_App_Billing_System/actions/workflows/build_windows.yml)
 
 
 
