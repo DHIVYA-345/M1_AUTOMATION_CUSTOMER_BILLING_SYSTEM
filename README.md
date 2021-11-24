@@ -19,4 +19,5 @@ codacy badges
 [![Code Quality - Static Code - Cppcheck](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/cppcheck.yml)
 
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/cppcheck.yml)
+
+[![Unit Testing - Unity](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/unity.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/unity.yml)
