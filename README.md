@@ -1,5 +1,14 @@
 # M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM
 
+
+Customer Billing Services System (CBSS) is the billing system for local wholesale billing. ... CBSS gathers, sorts, and verifies customer account information, including usage data, payment information, adjustment information, monthly and one-time service charge information, and applies taxes.
+
+*Add customer details
+
+*View existing customer details
+
+*Billing module: to add, edit, remove items. Consider the price, tax, discount, etc. Display the bill.
+
 BADGES
 
 codacy badges 
