@@ -25,3 +25,7 @@ codacy badges
 
 
 [![Build Windows](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/build_windows.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/build_windows.yml)
+
+
+
+[![Build_linux](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/build_linux.yml/badge.svg)](https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/actions/workflows/build_linux.yml)
