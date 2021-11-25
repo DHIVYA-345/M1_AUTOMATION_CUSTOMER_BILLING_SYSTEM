@@ -48,6 +48,6 @@ codacy badges
 
 
 
-### MANUAL TO REUN PROJECT 
+### MANUAL TO RUN PROJECT 
 
 https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/tree/main/3_Implementation#manual
