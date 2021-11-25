@@ -77,4 +77,3 @@ void test_negative_grand_total(void){
   TEST_ASSERT_EQUAL(0, grand_total(-32000));
   TEST_ASSERT_EQUAL(0, grand_total(-1));
 }
-© 2021 GitHub, Inc.
