@@ -45,3 +45,9 @@ codacy badges
 | 5_Testplan        | Complete report of project                   |
 | 6_ImagesAndVideos | Images and Videos related to project         |
 
+
+
+
+### MANUAL TO REUN PROJECT 
+
+https://github.com/DHIVYA-345/M1_AUTOMATION_CUSTOMER_BILLING_SYSTEM/tree/main/3_Implementation#manual
